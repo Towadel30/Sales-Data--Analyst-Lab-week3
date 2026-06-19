@@ -2,7 +2,7 @@
 Advanced SQL database auditing and business intelligence analysis on the Chinook relational database using Microsoft SQL Server (T-SQL).
 
 ## 📌 Project Overview
-This database engineering project handles a comprehensive audit of a global **B2B Sales dataset** using Microsoft SQL Server (T-SQL) inside SQL Server Management Studio (SSMS). The objective is to evaluate transactional performance, extract product distribution velocities, isolate top enterprise customer anchors, and implement advanced window functions over time-series logs.
+This database engineering project handles a comprehensive audit of a global  Sales dataset** using Microsoft SQL Server (T-SQL) inside SQL Server Management Studio (SSMS). The objective is to evaluate transactional performance, extract product distribution velocities, isolate top enterprise customer anchors, and implement advanced window functions over time-series logs.
 
 ---
 
